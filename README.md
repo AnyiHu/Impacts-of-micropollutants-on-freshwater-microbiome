@@ -7,7 +7,8 @@ by Dandan Izabel-Shen, Shuang Li, Tingwei Luo, Jianjun Wang, Yan Li, Qian Sun, C
 
 Corresponding author: Dr. Anyi Hu, CAS Key Laboratory of Urban Pollutant Conversion, Institute of Urban Environment, Chinese Academy of Sciences, Xiamen, China; email: ayhu@iue.ac.cn
 
-This work is currently Under Review. A preprint of this work can be found at DOI: 10.1101/2021.08.24.457489
+This work was published. 
+Citation: Dandan Izabel-Shen, Shuang Li, Tingwei Luo, Jianjun Wang, Yan Li, Qian Sun, Chang-Ping Yu, Anyi Hu*. Repeated introduction of micropollutants enhances microbial succession despite stable degradation patterns. ISME Communications. 2022. 10.1038/s43705-022-00129-0.
 
 
 ##Data
